@@ -1,6 +1,6 @@
 {
   "name": "mongoose-intl",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "description": "Mongoose schema plugin for multilingual fields",
   "main": "lib/mongoose-intl.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexsk/mongoose-intl.git"
+    "url": "https://github.com/iroth/mongoose-intl"
   },
   "keywords": [
     "mongoose",
